@@ -713,8 +713,12 @@ section.lazy-placeholder:after {
 .cid-s2BPKWnkGY {
   background-image: url("../../../assets/images/capa-home-page-insufla-me-relatos-quarentena-1-1600x1200.png");
 }
+.cid-s2BPKWnkGY .mbr-text,
+.cid-s2BPKWnkGY .mbr-section-btn {
+  text-align: center;
+}
 .cid-s2BQ6YtDeN {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffc3eb;
 }
